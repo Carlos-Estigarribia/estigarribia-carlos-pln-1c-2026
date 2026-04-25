@@ -1,0 +1,28 @@
+[33me451c54b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m feat: completa laboratorio 005 - pipeline análisis de noticias
+[33m8f17b1bf[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m feat: agrega requirements.txt con dependencias del entorno
+[33m143b3b38[m Forzando ignorar venv
+[33m48d90b7a[m Agregado material de spaCy y estructura del TPI 1
+[33medf98a98[m Actualizar ejercicios laboratorio 009
+[33m81805f87[m Actualizo trabajos de laboratorio 005 y 009
+[33m4e57a9d7[m Organización: Laboratorios 005 y 009 movidos a 003 - LAB
+[33m8d2f2c82[m Bajando librerías para el archivo 006
+[33m51ea1f8e[m Trabajando con archivo 006_Visualizacion
+[33maecf0af9[m Agrego archivos 005_Scrapling hasta 009_Proyecto_Final
+[33mdd4de723[m Agrego archivos 000 Intro a Gradio hasta el 004_Playwrigth
+[33m78aef77a[m Resolución ejercicios Python 002_Python
+[33m293a1cd5[m Sincronizo guías de ejercicio de Python en semana 002
+[33m4ff31ef7[m Sincronizo ejercicios de Python guardados
+[33m6d4d58dd[m Actualización real de ejercicios de Python
+[33m76f35c32[m Avances en ejercicios de Python
+[33mc08e1ab0[m Limpieza final: Git ignora oficialmente el entorno virtual
+[33mb9e49faf[m Resuelvo ejercicios de Python
+[33m1dfffcad[m Agrego notebook de práctica 001 python para empezar a resolver
+[33me6117229[m Quito .venv del repositorio remoto
+[33m6a678363[m Organización de carpetas semanas 002 a 004
+[33m0855e121[m Limpio el repositorio eliminando el entorno virtual de GitHub
+[33meade6eee[m Agrego materiales de semana 001 y configuración de gitignore
+[33m084a39bc[m Agrego carpeta correcta 003 - LAB
+[33m49721d85[m Elimino carpeta con nombre incorrecto
+[33m23491a37[m Corrijo numeración de subcarpetas
+[33mad757d4f[m Crear estructura inicial del repositorio
+[33m1fa83672[m Initial commit
