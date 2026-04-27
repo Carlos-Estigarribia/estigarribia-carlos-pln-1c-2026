@@ -16,9 +16,9 @@
   },
   "estadisticas": {
     "total_registros": 16,
-    "total_tokens": 10414,
-    "vocabulario_unico": 2101,
-    "total_entidades": 868,
+    "total_tokens": 10418,
+    "vocabulario_unico": 2099,
+    "total_entidades": 866,
     "distribucion_origen": {
       "json_playwright": 9,
       "web_trafilatura": 6,
@@ -33,7 +33,7 @@
       ],
       [
         "Javier Milei",
-        27
+        26
       ],
       [
         "Donald Trump",
@@ -91,7 +91,7 @@
       ],
       [
         "Gobierno",
-        6
+        7
       ],
       [
         "China",
@@ -218,11 +218,11 @@
     ],
     [
       "libertad",
-      30
+      29
     ],
     [
       "milei",
-      28
+      27
     ],
     [
       "empresa",
@@ -249,15 +249,15 @@
       23
     ],
     [
+      "gobierno",
+      23
+    ],
+    [
       "año",
       22
     ],
     [
       "político",
-      22
-    ],
-    [
-      "gobierno",
       22
     ],
     [
@@ -291,10 +291,6 @@
       10
     ],
     [
-      "volver",
-      10
-    ],
-    [
       "mantener",
       9
     ],
@@ -304,6 +300,10 @@
     ],
     [
       "permitir",
+      9
+    ],
+    [
+      "volver",
       9
     ],
     [
