@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "tema": "Visita de Peter Thiel a Argentina",
+    "fuentes": {
+      "web": [
+        "https://www.ambito.com/negocios/quien-es-peter-thiel-el-magnate-tecnologico-sillicon-valley-que-llego-perfil-la-argentina-n6269163",
+        "https://www.ambito.com/politica/elisa-carrio-cuestiono-la-visita-peter-thiel-y-advirtio-su-influencia-la-argentina-n6270402",
+        "https://www.ambito.com/politica/javier-milei-se-reunira-peter-thiel-fundador-paypal-y-palantir-n6269616",
+        "https://www.perfil.com/noticias/nea/peter-thiel-en-argentina-negocios-poder-y-senales-al-modelo-milei.phtml",
+        "https://www.eldestapeweb.com/politica/thiel-en-argentina-que-piensa-y-que-planea-el-dueno-de-palantir-que-se-reunira-con-milei-2026423103234",
+        "https://www.tiempoar.com.ar/ta_article/quien-es-peter-thiel-el-magnate-tecnocrata-que-se-reune-con-milei-en-casa-rosada-y-no-cree-en-la-democracia/"
+      ],
+      "audio": "https://www.youtube.com/watch?v=pXck4dbK-I8",
+      "json": "ambito_peter_thiel.json"
+    }
+  },
+  "estadisticas": {
+    "total_registros": 16,
+    "total_tokens": 10414,
+    "vocabulario_unico": 2101,
+    "total_entidades": 868,
+    "distribucion_origen": {
+      "json_playwright": 9,
+      "web_trafilatura": 6,
+      "audio_whisper": 1
+    }
+  },
+  "entidades": {
+    "PER": [
+      [
+        "Peter Thiel",
+        128
+      ],
+      [
+        "Javier Milei",
+        27
+      ],
+      [
+        "Donald Trump",
+        19
+      ],
+      [
+        "Alex Karp",
+        11
+      ],
+      [
+        "Elon Musk",
+        11
+      ],
+      [
+        "Elisa Carrió",
+        4
+      ],
+      [
+        "JD Vance",
+        4
+      ],
+      [
+        "Carrió",
+        3
+      ],
+      [
+        "Pablo Quirno",
+        3
+      ],
+      [
+        "Santiago Caputo",
+        3
+      ]
+    ],
+    "LOC": [
+      [
+        "Argentina",
+        31
+      ],
+      [
+        "Silicon Valley",
+        18
+      ],
+      [
+        "Estados Unidos",
+        16
+      ],
+      [
+        "Casa Rosada",
+        11
+      ],
+      [
+        "Estado",
+        8
+      ],
+      [
+        "Gobierno",
+        6
+      ],
+      [
+        "China",
+        5
+      ],
+      [
+        "Buenos Aires",
+        4
+      ],
+      [
+        "California",
+        4
+      ],
+      [
+        "Israel",
+        3
+      ]
+    ],
+    "MISC": [
+      [
+        "Facebook",
+        8
+      ],
+      [
+        "ICE",
+        5
+      ],
+      [
+        "Anticristo",
+        3
+      ],
+      [
+        "Bueno",
+        3
+      ],
+      [
+        "OpenAI",
+        2
+      ],
+      [
+        "IA",
+        2
+      ],
+      [
+        "Un año más tarde",
+        2
+      ],
+      [
+        "desembarco de Palantir",
+        2
+      ],
+      [
+        "El cratos",
+        2
+      ],
+      [
+        "Big Brother",
+        2
+      ]
+    ],
+    "ORG": [
+      [
+        "Palantir",
+        46
+      ],
+      [
+        "PayPal",
+        16
+      ],
+      [
+        "CIA",
+        8
+      ],
+      [
+        "Pentágono",
+        7
+      ],
+      [
+        "IA",
+        6
+      ],
+      [
+        "Founders Fund",
+        4
+      ],
+      [
+        "Forbes",
+        4
+      ],
+      [
+        "Stanford",
+        4
+      ],
+      [
+        "Palantir Technology",
+        3
+      ],
+      [
+        "Latina",
+        2
+      ]
+    ]
+  },
+  "palabras_clave": [
+    [
+      "thiel",
+      135
+    ],
+    [
+      "palantir",
+      53
+    ],
+    [
+      "peter",
+      52
+    ],
+    [
+      "argentina",
+      34
+    ],
+    [
+      "tecnológico",
+      33
+    ],
+    [
+      "libertad",
+      30
+    ],
+    [
+      "milei",
+      28
+    ],
+    [
+      "empresa",
+      27
+    ],
+    [
+      "mundo",
+      25
+    ],
+    [
+      "empresario",
+      25
+    ],
+    [
+      "dato",
+      25
+    ],
+    [
+      "democracia",
+      24
+    ],
+    [
+      "valley",
+      23
+    ],
+    [
+      "año",
+      22
+    ],
+    [
+      "político",
+      22
+    ],
+    [
+      "gobierno",
+      22
+    ],
+    [
+      "visita",
+      21
+    ],
+    [
+      "sistema",
+      21
+    ],
+    [
+      "tecnología",
+      20
+    ],
+    [
+      "paypal",
+      20
+    ]
+  ],
+  "verbos_principales": [
+    [
+      "sostener",
+      11
+    ],
+    [
+      "recibir",
+      10
+    ],
+    [
+      "publicar",
+      10
+    ],
+    [
+      "volver",
+      10
+    ],
+    [
+      "mantener",
+      9
+    ],
+    [
+      "desarrollar",
+      9
+    ],
+    [
+      "permitir",
+      9
+    ],
+    [
+      "venir",
+      9
+    ],
+    [
+      "explicar",
+      8
+    ],
+    [
+      "financiar",
+      8
+    ],
+    [
+      "seguir",
+      8
+    ],
+    [
+      "llamar",
+      8
+    ],
+    [
+      "conocer",
+      7
+    ],
+    [
+      "llegar",
+      7
+    ],
+    [
+      "creer",
+      7
+    ]
+  ]
+}
