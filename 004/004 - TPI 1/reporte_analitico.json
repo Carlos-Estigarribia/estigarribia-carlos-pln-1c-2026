@@ -15,49 +15,87 @@
     }
   },
   "estadisticas": {
-    "total_registros": 16,
-    "total_tokens": 10418,
-    "vocabulario_unico": 2099,
-    "total_entidades": 866,
+    "total_registros": 14,
+    "total_tokens": 9138,
+    "vocabulario_unico": 1936,
+    "total_entidades": 775,
     "distribucion_origen": {
-      "json_playwright": 9,
-      "web_trafilatura": 6,
+      "json_playwright": 8,
+      "web_trafilatura": 5,
       "audio_whisper": 1
     }
   },
   "entidades": {
+    "ORG": [
+      [
+        "Palantir",
+        43
+      ],
+      [
+        "PayPal",
+        14
+      ],
+      [
+        "Estado",
+        9
+      ],
+      [
+        "Pentágono",
+        7
+      ],
+      [
+        "CIA",
+        7
+      ],
+      [
+        "IA",
+        6
+      ],
+      [
+        "Facebook",
+        5
+      ],
+      [
+        "Gobierno",
+        5
+      ],
+      [
+        "Stanford",
+        4
+      ],
+      [
+        "OpenAI",
+        3
+      ]
+    ],
     "PER": [
       [
         "Peter Thiel",
-        128
+        106
       ],
       [
         "Javier Milei",
-        26
+        24
       ],
       [
         "Donald Trump",
-        19
-      ],
-      [
-        "Alex Karp",
-        11
+        18
       ],
       [
         "Elon Musk",
         11
       ],
       [
+        "Alex Karp",
+        10
+      ],
+      [
         "Elisa Carrió",
-        4
+        6
       ],
       [
         "JD Vance",
         4
-      ],
-      [
-        "Carrió",
-        3
       ],
       [
         "Pablo Quirno",
@@ -66,70 +104,62 @@
       [
         "Santiago Caputo",
         3
+      ],
+      [
+        "Él",
+        3
       ]
     ],
     "LOC": [
       [
         "Argentina",
-        31
+        28
       ],
       [
         "Silicon Valley",
-        18
+        15
       ],
       [
         "Estados Unidos",
-        16
+        15
       ],
       [
         "Casa Rosada",
         11
       ],
       [
-        "Estado",
-        8
-      ],
-      [
-        "Gobierno",
-        7
-      ],
-      [
         "China",
         5
-      ],
-      [
-        "Buenos Aires",
-        4
       ],
       [
         "California",
         4
       ],
       [
-        "Israel",
+        "Estado.",
+        3
+      ],
+      [
+        "Alemania",
+        3
+      ],
+      [
+        "Sudáfrica",
+        3
+      ],
+      [
+        "Venezuela",
         3
       ]
     ],
     "MISC": [
       [
-        "Facebook",
-        8
-      ],
-      [
         "ICE",
         5
       ],
       [
-        "Anticristo",
-        3
-      ],
-      [
         "Bueno",
         3
-      ],
-      [
-        "OpenAI",
-        2
       ],
       [
         "IA",
@@ -150,71 +180,37 @@
       [
         "Big Brother",
         2
-      ]
-    ],
-    "ORG": [
-      [
-        "Palantir",
-        46
       ],
       [
-        "PayPal",
-        16
+        "Tildó",
+        1
       ],
       [
-        "CIA",
-        8
+        "Caso ANDIS",
+        1
       ],
       [
-        "Pentágono",
-        7
-      ],
-      [
-        "IA",
-        6
-      ],
-      [
-        "Founders Fund",
-        4
-      ],
-      [
-        "Forbes",
-        4
-      ],
-      [
-        "Stanford",
-        4
-      ],
-      [
-        "Palantir Technology",
-        3
-      ],
-      [
-        "Latina",
-        2
+        "X",
+        1
       ]
     ]
   },
   "palabras_clave": [
     [
       "thiel",
-      135
+      112
     ],
     [
       "palantir",
-      53
+      47
     ],
     [
       "peter",
-      52
+      45
     ],
     [
       "argentina",
-      34
-    ],
-    [
-      "tecnológico",
-      33
+      30
     ],
     [
       "libertad",
@@ -222,59 +218,63 @@
     ],
     [
       "milei",
-      27
+      25
     ],
     [
       "empresa",
-      27
-    ],
-    [
-      "mundo",
       25
     ],
     [
-      "empresario",
-      25
-    ],
-    [
-      "dato",
-      25
+      "tecnológico",
+      24
     ],
     [
       "democracia",
       24
     ],
     [
-      "valley",
-      23
-    ],
-    [
-      "gobierno",
-      23
+      "empresario",
+      21
     ],
     [
       "año",
-      22
+      21
+    ],
+    [
+      "mundo",
+      20
     ],
     [
       "político",
-      22
+      20
     ],
     [
-      "visita",
-      21
+      "gobierno",
+      20
+    ],
+    [
+      "valley",
+      19
     ],
     [
       "sistema",
-      21
+      18
     ],
     [
-      "tecnología",
-      20
+      "dato",
+      18
     ],
     [
-      "paypal",
-      20
+      "unidos",
+      18
+    ],
+    [
+      "trump",
+      18
+    ],
+    [
+      "javier",
+      17
     ]
   ],
   "verbos_principales": [
@@ -289,10 +289,6 @@
     [
       "publicar",
       10
-    ],
-    [
-      "mantener",
-      9
     ],
     [
       "desarrollar",
@@ -311,14 +307,6 @@
       9
     ],
     [
-      "explicar",
-      8
-    ],
-    [
-      "financiar",
-      8
-    ],
-    [
       "seguir",
       8
     ],
@@ -327,16 +315,28 @@
       8
     ],
     [
-      "conocer",
-      7
-    ],
-    [
-      "llegar",
-      7
-    ],
-    [
       "creer",
       7
+    ],
+    [
+      "financiar",
+      7
+    ],
+    [
+      "tomar",
+      7
+    ],
+    [
+      "explicar",
+      7
+    ],
+    [
+      "escribir",
+      6
+    ],
+    [
+      "mantener",
+      6
     ]
   ]
 }
